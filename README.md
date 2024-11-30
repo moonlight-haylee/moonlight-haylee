@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Engineering Technology Projects:</h2>
 
-- [HTML & CSS Project Website](https://github.com/moonlight-haylee/URL)
+- [HTML & CSS Project Website](https://github.com/moonlight-haylee/Cats-Coffee-Website)
 - [Word Guessing Game](https://github.com/moonlight-haylee/URL)
 - [DES Algorithm Steps](https://github.com/moonlight-haylee/URL)
 
