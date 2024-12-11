@@ -7,8 +7,8 @@
 <h2>👨‍💻 Engineering Technology Projects:</h2>
 
 - [HTML & CSS Project Website](https://github.com/moonlight-haylee/Cats-Coffee-Website)
-- [Word Guessing Game](https://github.com/moonlight-haylee/URL)
-- [DES Algorithm Steps](https://github.com/moonlight-haylee/URL)
+<!--- - [Word Guessing Game](https://github.com/moonlight-haylee/URL)
+- [DES Algorithm Steps](https://github.com/moonlight-haylee/URL) -->
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/haylee-viramontes/">
