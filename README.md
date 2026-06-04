@@ -2,7 +2,7 @@
 - 😄 Pronouns: she/her/hers <br/>
 - 💬 Natural Languages: English, Spanish, French (low-intermediate), Japanese (low-intermediate) <br/>
 - ⚡ Interested in building skills for personal and professional growth <br/>
-- 🌱 Research Interests: Cybersecurity, Machine Learning, Natural Language Processing
+- 🌱 Research Interests: Cybersecurity, Digital Forensics
 
 <h2>👨‍💻 Engineering Technology Projects:</h2>
 
